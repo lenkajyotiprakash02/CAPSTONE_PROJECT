@@ -28,5 +28,4 @@ g++ client.cpp -o client
 - Make sure server is running before client.
 - Enter the filename on client to download.
 
-## License
-MIT License
+
